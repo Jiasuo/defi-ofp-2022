@@ -1,16 +1,13 @@
 <script setup>
-import TopBar from './components/TopBar.vue';
 import HomeHeader from './components/HomeHeader.vue';
 import HomeServices from './components/HomeServices.vue';
 import HomePortfolio from './components/HomePortfolio.vue';
 import HomeTestimonials from './components/HomeTestimonials.vue';
 import HomeBlog from './components/HomeBlog.vue';
 import HomeContact from './components/HomeContact.vue';
-
 </script>
 
 <template>
-  <TopBar />
   <main>
     <HomeHeader />
     <HomeServices />
@@ -20,6 +17,3 @@ import HomeContact from './components/HomeContact.vue';
     <HomeContact />
   </main>
 </template>
-
-<style scoped>  
-</style>

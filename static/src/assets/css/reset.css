@@ -129,6 +129,7 @@ table {
 }
 /* Delete links decoration */
 a {
+  color: inherit; 
   text-decoration: none;
 }
 /* Delete image offset */

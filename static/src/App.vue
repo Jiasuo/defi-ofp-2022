@@ -1,5 +1,6 @@
 <script setup>
 import TopBar from './components/TopBar.vue';
+import HomeHeader from './components/HomeHeader.vue';
 import HomeServices from './components/HomeServices.vue';
 import HomePortfolio from './components/HomePortfolio.vue';
 import HomeTestimonials from './components/HomeTestimonials.vue';

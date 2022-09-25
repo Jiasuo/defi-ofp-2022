@@ -14,6 +14,9 @@ import HomeHeaderTopBar from './HomeHeaderTopBar.vue';
 
 <style scoped>
   .homeHeaderContainer{
-    background: var(--black);
+    /* Set background color */
+    background: var(--bg1);
+    /* Set end padding */
+    padding-bottom: 92.98px;
   }
 </style>

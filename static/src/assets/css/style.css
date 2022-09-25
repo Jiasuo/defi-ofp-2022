@@ -12,7 +12,8 @@ html{
   --secondary: #F87F28;
   --grey-dark: #BFBFBF;
   --red: #BB2323;
-  --black: #202020;
+  --bg1: #232323;
+  --bg2: #202020;
   /* Text styles */
   --paragraph: 400 1rem/1.5 "Inter", sans-serif;
   --H2: 600 2.25rem/3.75rem "Inter", sans-serif;

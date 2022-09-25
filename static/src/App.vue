@@ -17,3 +17,12 @@ import HomeContact from './components/HomeContact.vue';
     <HomeContact />
   </main>
 </template>
+
+<style>
+/* Page specific styles */
+/* Primary text-style */
+*{
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+</style>
